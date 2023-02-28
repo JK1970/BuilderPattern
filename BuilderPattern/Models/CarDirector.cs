@@ -1,4 +1,4 @@
-using BuilderPattern.Models;
+using BuilderPattern;
 
 namespace BuilderPattern
 {

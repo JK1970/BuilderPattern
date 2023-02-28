@@ -1,6 +1,4 @@
-﻿using BuilderPattern.Models;
-
-namespace BuilderPattern
+﻿namespace BuilderPattern
 {
     public class Program
     {
