@@ -1,4 +1,4 @@
-namespace BuilderPattern
+namespace BuilderPattern.Models
 {
     public class Engine
     {
