@@ -6,4 +6,4 @@
 
 - UML class diagram
 
-     ![UML class diagram](/.assets/builderPattern.png "Abstract Factory Pattern")
+     ![UML class diagram](/.assets/builderPattern.png "Builder Pattern")
